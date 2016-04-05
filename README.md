@@ -1,2 +1,1 @@
-<!doctype>
-<html>
+ https://git-for-windows.github.io/
